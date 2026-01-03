@@ -52,7 +52,7 @@
 <h2>📈 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevByteNova&show_icons=true&theme=default" alt="Git Hub Stats" />
 </p>
 
 <hr/>
