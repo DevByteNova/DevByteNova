@@ -49,11 +49,22 @@
 
 <hr/>
 
-<h2>📈 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevByteNova&show_icons=true&theme=github_dark" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByteNova&layout=compact&theme=github_dark" />
+</p>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevByteNova)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevByteNova&theme=github-dark" />
+</p>
+
 
 <hr/>
 
