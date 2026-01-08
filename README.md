@@ -49,31 +49,14 @@
 
 <hr/>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevByteNova&show_icons=true&theme=github_dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByteNova&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevByteNova&theme=github-dark" />
-</p>
-
-
 <hr/>
 
 <h2>📫 Connect</h2>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  <a href="https://github.com/DevByteNova">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /
   </a>
 </p>
 
-<p><i>Always learning. Always improving.</i></p>
+<p><i>Always learning. Somewhere improving.</i></p>
