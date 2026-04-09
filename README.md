@@ -1,15 +1,16 @@
-<h1 align="center">👋 Hi, I'm a Junior Developer</h1>
+<h1 align="center">👋 Hi, I'm DevByteNova</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/DOM%20Manipulation-green?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
 </p>
 
 <p align="center">
   Junior developer focused on building clean and responsive web interfaces.<br/>
-  Strong foundation in <b>HTML & CSS</b>, with basic knowledge of <b>JavaScript</b> and <b>Python</b>.
+  Strong foundation in <b>HTML & CSS</b>, with expertise in <b>JavaScript DOM manipulation</b> and basic knowledge of <b>Python</b>.
 </p>
 
 <hr/>
@@ -21,8 +22,8 @@
 </p>
 
 <ul>
-  <li><b>Frontend:</b> HTML5, CSS3</li>
-  <li><b>Languages:</b> JavaScript (basic), Python (basic)</li>
+  <li><b>Frontend:</b> HTML5, CSS3, JavaScript DOM Manipulation</li>
+  <li><b>Languages:</b> JavaScript (intermediate), Python (basic)</li>
   <li><b>Tools:</b> Google Colab, Git, GitHub, VS Code</li>
 </ul>
 
@@ -31,9 +32,10 @@
 <h2>📚 Currently Learning</h2>
 
 <ul>
-  <li>JavaScript fundamentals</li>
+  <li>Advanced JavaScript DOM manipulation techniques</li>
   <li>Responsive web design</li>
   <li>Python problem solving</li>
+  <li>Modern frontend frameworks</li>
 </ul>
 
 <hr/>
@@ -41,13 +43,11 @@
 <h2>🚀 Goals</h2>
 
 <ul>
-  <li>Build real-world projects</li>
-  <li>Improve JavaScript & Python skills</li>
+  <li>Build real-world projects with interactive DOM manipulation</li>
+  <li>Master JavaScript & DOM skills</li>
   <li>Learn modern frontend frameworks</li>
   <li>Contribute to open-source</li>
 </ul>
-
-<hr/>
 
 <hr/>
 
@@ -55,7 +55,7 @@
 
 <p>
   <a href="https://github.com/DevByteNova">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
 </p>
 
