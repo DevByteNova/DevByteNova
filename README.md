@@ -1,62 +1,62 @@
-<h1 align="center">👋 Hi, I'm DevByteNova</h1>
+# 👋 Hi, I'm DevByteNova
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/DOM%20Manipulation-green?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
-</p>
+I'm a passionate developer who enjoys building responsive, user-friendly web applications and solving problems through code. I believe the best way to learn is by building real projects and continuously improving with every commit.
 
-<p align="center">
-  Junior developer focused on building clean and responsive web interfaces.<br/>
-  Strong foundation in <b>HTML & CSS</b>, with expertise in <b>JavaScript DOM manipulation</b> and basic knowledge of <b>Python</b>.
-</p>
+## 🚀 Current Focus
 
-<hr/>
+* Building practical JavaScript projects
+* Strengthening frontend development skills
+* Learning React and modern web development
+* Exploring Python for automation and problem-solving
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
+### Languages & Technologies
 
-<ul>
-  <li><b>Frontend:</b> HTML5, CSS3, JavaScript DOM Manipulation</li>
-  <li><b>Languages:</b> JavaScript (intermediate), Python (basic)</li>
-  <li><b>Tools:</b> Google Colab, Git, GitHub, VS Code</li>
-</ul>
+* HTML5
+* CSS3
+* JavaScript
+* Python
 
-<hr/>
+### Tools
 
-<h2>📚 Currently Learning</h2>
+* Git
+* GitHub
+* Visual Studio Code
+* Google Colab
 
-<ul>
-  <li>Advanced JavaScript DOM manipulation techniques</li>
-  <li>Responsive web design</li>
-  <li>Python problem solving</li>
-  <li>Modern frontend frameworks</li>
-</ul>
+## 🌱 Currently Learning
 
-<hr/>
+* React
+* Modern JavaScript (ES6+)
+* API integration
+* Clean code and software best practices
 
-<h2>🚀 Goals</h2>
+## ⭐ Featured Projects
 
-<ul>
-  <li>Build real-world projects with interactive DOM manipulation</li>
-  <li>Master JavaScript & DOM skills</li>
-  <li>Learn modern frontend frameworks</li>
-  <li>Contribute to open-source</li>
-</ul>
+> *I'll be adding my best projects here as I continue building.*
 
-<hr/>
+* 🔹 **Project Name** – Short description
+* 🔹 **Project Name** – Short description
+* 🔹 **Project Name** – Short description
 
-<h2>📫 Connect</h2>
+## 🎯 Goals
 
-<p>
+* Build full-stack web applications
+* Contribute to open-source projects
+* Write clean, maintainable, and scalable code
+* Continue learning new technologies every day
+
+## 📈 GitHub
+
+Feel free to explore my repositories and follow my journey as I continue building and learning.
+
+<p align="left">
   <a href="https://github.com/DevByteNova">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p><i>Always learning. Somewhere improving.</i></p>
+---
+
+> *Learning by building. Improving with every project.*
