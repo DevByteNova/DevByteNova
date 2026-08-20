@@ -102,9 +102,23 @@ Git
 🔧 Improve my Git and GitHub workflow
 💻 Create larger and more complex software projects
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DevByteNova&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByteNova&theme=tokyonight&hide_border=true" /> </p>
+## 📊 GitHub
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DevByteNova&style=for-the-badge&color=01B1E1&label=PROFILE+VIEWS" />
+
+</p>
+
+<p align="center">
+
+🔭 Currently working on **Axioma**
+
+🐝 Recently completed **Dev-Hive**
+
+💻 Building projects and learning every day
+
+</p>
 💻 My Current Focus
 Frontend Development
 ████████████████░░░░ 80%
