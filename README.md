@@ -138,6 +138,8 @@ Git
 
 </p>
 💻 My Current Focus
+
+
 Frontend Development
 ████████████████░░░░ 80%
 
