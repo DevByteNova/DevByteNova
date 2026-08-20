@@ -102,6 +102,17 @@ Git
 🔧 Improve my Git and GitHub workflow
 💻 Create larger and more complex software projects
 
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByteNova&layout=donut&theme=tokyonight&hide_border=true"
+  alt="Most Used Languages"
+/>
+
+</p>
+
 ## 📊 GitHub
 
 <p align="center">
