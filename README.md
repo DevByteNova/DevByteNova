@@ -144,14 +144,8 @@ I like taking ideas and turning them into something that actually works.
 
 
 📫 Thanks for Visiting!
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=01B1E1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+learning+%F0%9F%9A%80;Keep+building+%F0%9F%92%BB" alt="Typing Footer" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=01B1E1&height=120&section=footer" /> </p> ```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=01B1E1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+learning+%F0%9F%9A%80;Keep+building+%F0%9F%92%BB" alt="Typing Footer" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=01B1E1&height=120&section=footer" /> </p> 
 
-```text
-HTML5
-CSS3
-JavaScript
-PHP
-MySQL
-
+`
 
 
