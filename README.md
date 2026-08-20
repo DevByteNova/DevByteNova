@@ -23,7 +23,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,mysql,git" />
 
 </p>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -50,6 +49,14 @@ I'm currently developing **Axioma**, a full-stack project focused on building a 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+
+</p>
+
+### 🛠️ Dev-Hive Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git" />
 
 </p>
 
