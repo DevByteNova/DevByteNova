@@ -175,6 +175,10 @@ Full-Stack Development
 
 I like taking ideas and turning them into something that actually works.
 
+🚫 Currently not open to work
+
+I'm currently focused on my studies and personal projects, so I'm not looking for job opportunities at this time.
+
 
 
 📫 Thanks for Visiting!
