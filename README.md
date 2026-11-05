@@ -12,8 +12,6 @@
 
 🐝 Recently completed **Dev-Hive**, a student business project.
 
-🧠 Currently working on **Axioma**, a full-stack project built with HTML5, CSS3, JavaScript, PHP and MySQL.
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -40,9 +38,7 @@
 
 ## 🧠 Currently Working On
 
-# Axioma
-
-I'm currently developing **Axioma**, a full-stack project focused on building a complete software solution using frontend, backend and database technologies.
+-Nothing For Now
 
 ### 🔧 Axioma Stack
 
@@ -60,8 +56,7 @@ I'm currently developing **Axioma**, a full-stack project focused on building a 
 
 </p>
 
-🔨 Status: In Development
-
+🔨 Status: Finished! ✅
 Building, learning and improving one feature at a time. 🚀
 
 🐝 Featured Project
@@ -168,7 +163,7 @@ Full-Stack Development
 | Project         | Description                 | Status            |
 | --------------- | --------------------------- | ----------------- |
 | 🐝 **Dev-Hive** | Student business website    | ✅ Completed       |
-| 🧠 **Axioma**   | Full-stack software project | 🔨 In Development |
+| 🧠 **Axioma**   | Full-stack software project | ✅ Completed       |
 
 
 ⚡ Fun Fact
